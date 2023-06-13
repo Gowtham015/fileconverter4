@@ -1,0 +1,45 @@
+ body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(194, 236, 222);
+  }
+  
+  h1 {
+    color: #141313;
+  }
+  .head{
+    background-color: rgb(159, 202, 242);
+    border: 1.5px solid gainsboro;
+    margin: 11rem 22rem;
+    border-radius: 14px;
+    padding: 3rem;
+  }
+  
+  input[type="file"] {
+    margin-top: 20px;
+   
+  }
+  
+  button {
+    margin-top: 10px;
+    background-color: antiquewhite;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 10px;
+    
+    
+  }
+  
+  a {
+    margin-top: 0.5rem;
+  }
+  .head{
+    background-color: rgb(141, 189, 234);
+    border: 1.5px solid gainsboro;
+    margin: 11rem 22rem;
+    border-radius: 14px;
+    padding: 1.5rem;
+  }
+  #d{
+    background-color: antiquewhite;
+  }
